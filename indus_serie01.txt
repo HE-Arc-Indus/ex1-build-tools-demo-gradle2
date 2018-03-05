@@ -1,0 +1,15 @@
+Série 1 (30-45 minutes)
+
+1. 	a. Quelle est la version de Java par défaut sur votre machine ?
+		java -version //1.8.0_92
+	b. Quelles autres versions se trouvent sur votre machine ?
+		???
+	c. Assurez-vous de disposer de Java 8, et de faire en sorte qu’il s’agisse de l’environnement utilisé par défaut.
+		ok
+
+3. 	e. Consignez les commandes utilisées pour les étapes a et d dans un fichier texte.
+		a) Création du fichier "Personne.java" via explorateur windows puis le compiler 
+			javac Personne.java
+		d) Compilation puis exécution depuis l'extérieur du "package"
+			Compilation : 	javac serie01/MesPersonnes.java
+			Exécution :	java serie01/MesPersonnes
